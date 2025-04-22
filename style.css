@@ -1,0 +1,15 @@
+* {
+  font-family: monospace;
+}
+body{
+    background-color: papayawhip;
+    color: black; 
+}
+h2, h3, h4, h5, h6 {
+    font-size: 16px;
+    color:rgba(36, 36, 60, 0.612);
+}
+p{
+
+
+}
